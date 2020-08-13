@@ -1,0 +1,37 @@
+#logo {
+	font-family: 'Dancing Script', cursive;
+	font-size: 60px;
+	margin-bottom: 10px;
+}
+.textOnImage {
+	position: absolute;
+	width: 100%;
+	text-align: center;
+	top: 30%;
+	color: white;
+	font-size: 60px;
+}
+#topRow {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #E2E8B0;
+}
+#bottomRow {
+	padding-bottom: 20px;
+	background-color: #E2E8B0;
+}
+#map {
+	height: 500px;
+	width: 100%;
+	align-items: center;
+}
+#endingSection {
+	padding-bottom: 15px;
+	background-color: #FFD8C2;
+}
+#phonebg {
+	background-color: #CFFFFD;
+}
+#logobg {
+	background-color: #FF6921;
+}
